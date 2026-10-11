@@ -208,7 +208,7 @@ public class League {
     private final DecimalFormatSymbols symbols = new DecimalFormatSymbols(Locale.US);
     private final DecimalFormat df2 = new DecimalFormat("#.##", symbols);
     private final DecimalFormat df3 = new DecimalFormat("#.####", symbols);
-    private final int seasonStart = 2021;
+    private final int seasonStart = 2027;
     int countTeam = 130; //default roster automatically calculates this number when using custom data or loaded saves
     private final int seasonWeeks = 30;
     public int regSeasonWeeks = 13; //original = 13 will change dynamically based on team/conference structure
