@@ -242,9 +242,9 @@ public class League {
 
     public final String bowlNamesText = "Carnation Bowl, Mandarin Bowl, Honey Bowl, Fiesta Bowl, Nectarine Bowl, Polyester Bowl, Twister Bowl, Gator Bowl, Desert Bowl, Fort Bowl, Vacation Bowl, Star Bowl, Bell Bowl, Freedom Bowl, Casino Bowl, American Bowl, Island Bowl, Charity Bowl, Steak Bowl, Camping Bowl, Spud Bowl, Music Bowl, New Orleans Bowl, Cowboy Bowl, Santa Fe Bowl, Burrito Bowl, Mexico Bowl, Chick Bowl, Empire Bowl, Rainbow Bowl, Mushroom Bowl, Coffee Bowl, Cascade Bowl, Great Lakes Bowl, Cowboy Bowl, Alliance Bowl, Appalachian Bowl, Bayou Bowl, Nexus Bowl, Space Bowl, Everest Bowl, Cloud Bowl, Healthcare Bowl, More Chicken Bowl, Avocado Bowl, Realtors Bowl, Search Engine Bowl, Instant Photo Bowl, Social Faces Bowl, Grape Bowl, Tesla Bowl, Earthquake Bowl, Rainforest Bowl";
 
-    public String[] teamsFCS = {"Alabama State", "Albany", "Cal-Poly", "Central Arkansas", "Chattanooga", "Columbia", "Dayton", "Delaware", "Eastern Wash", "Eastern Tenn", "Spokane", "Harvard", "Yale", "Princeton", "Grambling", "Georgetown", "Idaho", "Idaho State", "James Madison", "Maine", "Miss Valley", "Montana", "Montana State", "New Hampshire", "North Dakota", "North Dakota St", "South Dakota", "South Dakota St", "Northern Arizona", "Northern Colorado", "Portland", "Rhode Island", "Sacramento", "Southern", "Southern TX", "Western llinois", "Youngstown"};
+    public String[] teamsFCS = {"Alabama State", "Albany", "Alcorn State", "Austin Peay", "Chattanooga", "Columbia", "Dayton", "Delaware", "Drake", "Eastern Kentucky", "Brown", "Harvard", "Yale", "Princeton", "Grambling State", "Weber State", "Richmond", "Elon", "Lehigh", "Maine", "Eastern Illinois", "UT Martin", "Tennessee Tech", "Tennessee State", "Gardner-Webb", "North Dakota", "South Dakota", "North Alabama", "Mercer", "Wofford", "Furman", "Sanford", "Murray State", "Southern", "Texas Southern", "Monmouth", "VMI"};
 
-    public String[] confNamesNew = {"Antdroid", "Big 8", "National", "Constitution", "Colonial", "Continental"};
+    public String[] confNamesNew = {"American", "CUSA", "Patriot", "United", "Big 8", "Continental"};
 
 
     /**
