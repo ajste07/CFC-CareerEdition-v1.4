@@ -1,0 +1,121 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="antdroid.cfbcoach"
+4    android:versionCode="320"
+5    android:versionName="v1.4.5" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="24"
+8-->D:\Games\fccd\android\CFC-CareerEdition-v1.4-master\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->D:\Games\fccd\android\CFC-CareerEdition-v1.4-master\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+11-->D:\Games\fccd\android\CFC-CareerEdition-v1.4-master\src\main\AndroidManifest.xml:5:5-81
+11-->D:\Games\fccd\android\CFC-CareerEdition-v1.4-master\src\main\AndroidManifest.xml:5:22-78
+12    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+12-->D:\Games\fccd\android\CFC-CareerEdition-v1.4-master\src\main\AndroidManifest.xml:6:5-80
+12-->D:\Games\fccd\android\CFC-CareerEdition-v1.4-master\src\main\AndroidManifest.xml:6:22-77
+13
+14    <application
+14-->D:\Games\fccd\android\CFC-CareerEdition-v1.4-master\src\main\AndroidManifest.xml:8:5-52:19
+15        android:allowBackup="true"
+15-->D:\Games\fccd\android\CFC-CareerEdition-v1.4-master\src\main\AndroidManifest.xml:9:9-35
+16        android:appComponentFactory="android.support.v4.app.CoreComponentFactory"
+16-->[com.android.support:support-compat:28.0.0] C:\Users\Adrian\.gradle\caches\transforms-3\eaec1088239ec2bcfaac7d809f3bb425\transformed\support-compat-28.0.0\AndroidManifest.xml:22:18-91
+17        android:extractNativeLibs="false"
+18        android:icon="@mipmap/ic_launcher"
+18-->D:\Games\fccd\android\CFC-CareerEdition-v1.4-master\src\main\AndroidManifest.xml:10:9-43
+19        android:label="@string/app_name"
+19-->D:\Games\fccd\android\CFC-CareerEdition-v1.4-master\src\main\AndroidManifest.xml:11:9-41
+20        android:largeHeap="true"
+20-->D:\Games\fccd\android\CFC-CareerEdition-v1.4-master\src\main\AndroidManifest.xml:12:9-33
+21        android:launchMode="singleTop"
+21-->D:\Games\fccd\android\CFC-CareerEdition-v1.4-master\src\main\AndroidManifest.xml:13:9-39
+22        android:supportsRtl="true"
+22-->D:\Games\fccd\android\CFC-CareerEdition-v1.4-master\src\main\AndroidManifest.xml:14:9-35
+23        android:theme="@style/AppTheme" >
+23-->D:\Games\fccd\android\CFC-CareerEdition-v1.4-master\src\main\AndroidManifest.xml:15:9-40
+24        <activity
+24-->D:\Games\fccd\android\CFC-CareerEdition-v1.4-master\src\main\AndroidManifest.xml:16:9-26:20
+25            android:name="antdroid.cfbcoach.Home"
+25-->D:\Games\fccd\android\CFC-CareerEdition-v1.4-master\src\main\AndroidManifest.xml:17:13-33
+26            android:label="@string/app_name"
+26-->D:\Games\fccd\android\CFC-CareerEdition-v1.4-master\src\main\AndroidManifest.xml:18:13-45
+27            android:screenOrientation="portrait"
+27-->D:\Games\fccd\android\CFC-CareerEdition-v1.4-master\src\main\AndroidManifest.xml:19:13-49
+28            android:theme="@style/AppTheme" >
+28-->D:\Games\fccd\android\CFC-CareerEdition-v1.4-master\src\main\AndroidManifest.xml:20:13-44
+29            <intent-filter>
+29-->D:\Games\fccd\android\CFC-CareerEdition-v1.4-master\src\main\AndroidManifest.xml:21:13-25:29
+30                <action android:name="android.intent.action.MAIN" />
+30-->D:\Games\fccd\android\CFC-CareerEdition-v1.4-master\src\main\AndroidManifest.xml:22:17-69
+30-->D:\Games\fccd\android\CFC-CareerEdition-v1.4-master\src\main\AndroidManifest.xml:22:25-66
+31
+32                <category android:name="android.intent.category.LAUNCHER" />
+32-->D:\Games\fccd\android\CFC-CareerEdition-v1.4-master\src\main\AndroidManifest.xml:24:17-77
+32-->D:\Games\fccd\android\CFC-CareerEdition-v1.4-master\src\main\AndroidManifest.xml:24:27-74
+33            </intent-filter>
+34        </activity>
+35        <activity
+35-->D:\Games\fccd\android\CFC-CareerEdition-v1.4-master\src\main\AndroidManifest.xml:27:9-37:20
+36            android:name="antdroid.cfbcoach.MainActivity"
+36-->D:\Games\fccd\android\CFC-CareerEdition-v1.4-master\src\main\AndroidManifest.xml:28:13-41
+37            android:alwaysRetainTaskState="true"
+37-->D:\Games\fccd\android\CFC-CareerEdition-v1.4-master\src\main\AndroidManifest.xml:29:13-49
+38            android:configChanges="keyboardHidden|orientation|screenSize"
+38-->D:\Games\fccd\android\CFC-CareerEdition-v1.4-master\src\main\AndroidManifest.xml:30:13-74
+39            android:label="@string/app_name"
+39-->D:\Games\fccd\android\CFC-CareerEdition-v1.4-master\src\main\AndroidManifest.xml:31:13-45
+40            android:parentActivityName="antdroid.cfbcoach.Home"
+40-->D:\Games\fccd\android\CFC-CareerEdition-v1.4-master\src\main\AndroidManifest.xml:32:13-47
+41            android:theme="@style/AppTheme" >
+41-->D:\Games\fccd\android\CFC-CareerEdition-v1.4-master\src\main\AndroidManifest.xml:33:13-44
+42            <meta-data
+42-->D:\Games\fccd\android\CFC-CareerEdition-v1.4-master\src\main\AndroidManifest.xml:34:13-36:58
+43                android:name="android.support.PARENT_ACTIVITY"
+43-->D:\Games\fccd\android\CFC-CareerEdition-v1.4-master\src\main\AndroidManifest.xml:35:17-63
+44                android:value="antdroid.cfbcoach.Home" />
+44-->D:\Games\fccd\android\CFC-CareerEdition-v1.4-master\src\main\AndroidManifest.xml:36:17-55
+45        </activity>
+46        <activity
+46-->D:\Games\fccd\android\CFC-CareerEdition-v1.4-master\src\main\AndroidManifest.xml:38:9-48:20
+47            android:name="recruiting.RecruitingActivity"
+47-->D:\Games\fccd\android\CFC-CareerEdition-v1.4-master\src\main\AndroidManifest.xml:39:13-57
+48            android:alwaysRetainTaskState="true"
+48-->D:\Games\fccd\android\CFC-CareerEdition-v1.4-master\src\main\AndroidManifest.xml:40:13-49
+49            android:configChanges="keyboardHidden|orientation|screenSize"
+49-->D:\Games\fccd\android\CFC-CareerEdition-v1.4-master\src\main\AndroidManifest.xml:41:13-74
+50            android:label="@string/title_activity_recruiting"
+50-->D:\Games\fccd\android\CFC-CareerEdition-v1.4-master\src\main\AndroidManifest.xml:42:13-62
+51            android:parentActivityName="antdroid.cfbcoach.MainActivity"
+51-->D:\Games\fccd\android\CFC-CareerEdition-v1.4-master\src\main\AndroidManifest.xml:43:13-55
+52            android:theme="@style/AppTheme" >
+52-->D:\Games\fccd\android\CFC-CareerEdition-v1.4-master\src\main\AndroidManifest.xml:44:13-44
+53            <meta-data
+53-->D:\Games\fccd\android\CFC-CareerEdition-v1.4-master\src\main\AndroidManifest.xml:34:13-36:58
+54                android:name="android.support.PARENT_ACTIVITY"
+54-->D:\Games\fccd\android\CFC-CareerEdition-v1.4-master\src\main\AndroidManifest.xml:35:17-63
+55                android:value="antdroid.cfbcoach.MainActivity" />
+55-->D:\Games\fccd\android\CFC-CareerEdition-v1.4-master\src\main\AndroidManifest.xml:36:17-55
+56        </activity>
+57        <activity
+57-->D:\Games\fccd\android\CFC-CareerEdition-v1.4-master\src\main\AndroidManifest.xml:49:9-51:77
+58            android:name="antdroid.cfbcoach.TutorialActivity"
+58-->D:\Games\fccd\android\CFC-CareerEdition-v1.4-master\src\main\AndroidManifest.xml:50:13-45
+59            android:configChanges="keyboardHidden|orientation|screenSize" />
+59-->D:\Games\fccd\android\CFC-CareerEdition-v1.4-master\src\main\AndroidManifest.xml:51:13-74
+60
+61        <provider
+61-->[android.arch.lifecycle:extensions:1.1.1] C:\Users\Adrian\.gradle\caches\transforms-3\cc63d21f849cdcc670d87dd19edb2eb9\transformed\extensions-1.1.1\AndroidManifest.xml:23:9-27:43
+62            android:name="android.arch.lifecycle.ProcessLifecycleOwnerInitializer"
+62-->[android.arch.lifecycle:extensions:1.1.1] C:\Users\Adrian\.gradle\caches\transforms-3\cc63d21f849cdcc670d87dd19edb2eb9\transformed\extensions-1.1.1\AndroidManifest.xml:24:13-83
+63            android:authorities="antdroid.cfbcoach.lifecycle-trojan"
+63-->[android.arch.lifecycle:extensions:1.1.1] C:\Users\Adrian\.gradle\caches\transforms-3\cc63d21f849cdcc670d87dd19edb2eb9\transformed\extensions-1.1.1\AndroidManifest.xml:25:13-68
+64            android:exported="false"
+64-->[android.arch.lifecycle:extensions:1.1.1] C:\Users\Adrian\.gradle\caches\transforms-3\cc63d21f849cdcc670d87dd19edb2eb9\transformed\extensions-1.1.1\AndroidManifest.xml:26:13-37
+65            android:multiprocess="true" />
+65-->[android.arch.lifecycle:extensions:1.1.1] C:\Users\Adrian\.gradle\caches\transforms-3\cc63d21f849cdcc670d87dd19edb2eb9\transformed\extensions-1.1.1\AndroidManifest.xml:27:13-40
+66    </application>
+67
+68</manifest>

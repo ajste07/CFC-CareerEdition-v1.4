@@ -1,0 +1,489 @@
+ui/PlayerRankingsList.java
+ ui.PlayerRankingsList
+ ui.PlayerRankingsList$1
+comparator/CompTeamRecruitClass.java
+ comparator.CompTeamRecruitClass
+antdroid/cfbcoach/Home.java
+ antdroid.cfbcoach.Home
+ antdroid.cfbcoach.Home$1
+ antdroid.cfbcoach.Home$1$1
+ antdroid.cfbcoach.Home$1$2
+ antdroid.cfbcoach.Home$1$3
+ antdroid.cfbcoach.Home$10
+ antdroid.cfbcoach.Home$11
+ antdroid.cfbcoach.Home$12
+ antdroid.cfbcoach.Home$13
+ antdroid.cfbcoach.Home$14
+ antdroid.cfbcoach.Home$15
+ antdroid.cfbcoach.Home$16
+ antdroid.cfbcoach.Home$17
+ antdroid.cfbcoach.Home$18
+ antdroid.cfbcoach.Home$19
+ antdroid.cfbcoach.Home$2
+ antdroid.cfbcoach.Home$2$1
+ antdroid.cfbcoach.Home$2$2
+ antdroid.cfbcoach.Home$2$3
+ antdroid.cfbcoach.Home$20
+ antdroid.cfbcoach.Home$21
+ antdroid.cfbcoach.Home$22
+ antdroid.cfbcoach.Home$23
+ antdroid.cfbcoach.Home$3
+ antdroid.cfbcoach.Home$4
+ antdroid.cfbcoach.Home$5
+ antdroid.cfbcoach.Home$6
+ antdroid.cfbcoach.Home$7
+ antdroid.cfbcoach.Home$8
+ antdroid.cfbcoach.Home$9
+ antdroid.cfbcoach.Home$9$1
+ui/NewsStories.java
+ ui.NewsStories
+simulation/League.java
+ simulation.League
+comparator/CompPlayerPassYards.java
+ comparator.CompPlayerPassYards
+simulation/TeamRecords.java
+ simulation.TeamRecords
+ simulation.TeamRecords$Record
+positions/PlayerK.java
+ positions.PlayerK
+comparator/CompPuntRetYards.java
+ comparator.CompPuntRetYards
+comparator/CompKickRetTD.java
+ comparator.CompKickRetTD
+comparator/CompTeamDisciplineScore.java
+ comparator.CompTeamDisciplineScore
+positions/PlayerRB.java
+ positions.PlayerRB
+comparator/CompTeamSoW.java
+ comparator.CompTeamSoW
+comparator/CompPlayerPassPCT.java
+ comparator.CompPlayerPassPCT
+staff/DC.java
+ staff.DC
+comparator/CompCoachWins.java
+ comparator.CompCoachWins
+comparator/CompNFLTalent.java
+ comparator.CompNFLTalent
+comparator/CompTeamPrestige.java
+ comparator.CompTeamPrestige
+comparator/CompPlayerPassInts.java
+ comparator.CompPlayerPassInts
+comparator/CompTeamBudget.java
+ comparator.CompTeamBudget
+comparator/CompTeamWins.java
+ comparator.CompTeamWins
+ui/LeagueRecordsList.java
+ ui.LeagueRecordsList
+simulation/Game.java
+ simulation.Game
+positions/PlayerOffense.java
+ positions.PlayerOffense
+antdroid/cfbcoach/TutorialActivity.java
+ antdroid.cfbcoach.TutorialActivity
+ antdroid.cfbcoach.TutorialActivity$1
+simulation/PlaybookDefense.java
+ simulation.PlaybookDefense
+comparator/CompTeamDiscipline.java
+ comparator.CompTeamDiscipline
+comparator/CompTeamConfWins.java
+ comparator.CompTeamConfWins
+positions/PlayerST.java
+ positions.PlayerST
+comparator/CompTeamPYPG.java
+ comparator.CompTeamPYPG
+comparator/CompPlayerPosDepth.java
+ comparator.CompPlayerPosDepth
+comparator/CompRecruit.java
+ comparator.CompRecruit
+comparator/CompPlayerRushTDs.java
+ comparator.CompPlayerRushTDs
+comparator/CompCoachWinPCT.java
+ comparator.CompCoachWinPCT
+staff/OC.java
+ staff.OC
+ui/MockDraft.java
+ ui.MockDraft
+recruiting/CompRecruitCost.java
+ recruiting.CompRecruitCost
+comparator/CompPlayerHeisman.java
+ comparator.CompPlayerHeisman
+comparator/CompTeamFacilities.java
+ comparator.CompTeamFacilities
+positions/PlayerLB.java
+ positions.PlayerLB
+ui/GameScheduleList.java
+ ui.GameScheduleList
+ ui.GameScheduleList$1
+ ui.GameScheduleList$2
+ui/LeagueHistoryList.java
+ ui.LeagueHistoryList
+positions/PlayerDL.java
+ positions.PlayerDL
+comparator/CompTeamOPYPG.java
+ comparator.CompTeamOPYPG
+staff/HeadCoach.java
+ staff.HeadCoach
+ui/SaveFilesList.java
+ ui.SaveFilesList
+comparator/CompCoachConfCOTY.java
+ comparator.CompCoachConfCOTY
+simulation/Conference.java
+ simulation.Conference
+comparator/CompPlayerRushYards.java
+ comparator.CompPlayerRushYards
+comparator/CompTeamPoll.java
+ comparator.CompTeamPoll
+comparator/CompPlayerSTSpeed.java
+ comparator.CompPlayerSTSpeed
+comparator/CompCoachAllConference.java
+ comparator.CompCoachAllConference
+ui/TeamRankingsList.java
+ ui.TeamRankingsList
+comparator/CompCoachOff.java
+ comparator.CompCoachOff
+comparator/CompTeamOYPG.java
+ comparator.CompTeamOYPG
+ui/RedshirtAdapter.java
+ ui.RedshirtAdapter
+ ui.RedshirtAdapter$1
+comparator/CompConfPrestige.java
+ comparator.CompConfPrestige
+comparator/CompCoachCareer.java
+ comparator.CompCoachCareer
+comparator/CompPlayer.java
+ comparator.CompPlayer
+simulation/LeagueRecords.java
+ simulation.LeagueRecords
+ simulation.LeagueRecords$Record
+comparator/CompTeamDefTalent.java
+ comparator.CompTeamDefTalent
+recruiting/CompRecruitTeamRosterOvr.java
+ recruiting.CompRecruitTeamRosterOvr
+simulation/Injury.java
+ simulation.Injury
+comparator/CompPlayerRecYards.java
+ comparator.CompPlayerRecYards
+ui/PlayerProfileV2.java
+ ui.PlayerProfileV2
+ui/CoachDatabase.java
+ ui.CoachDatabase
+ ui.CoachDatabase$1
+comparator/CompPlayerFGMade.java
+ comparator.CompPlayerFGMade
+positions/PlayerTE.java
+ positions.PlayerTE
+staff/Staff.java
+ staff.Staff
+comparator/CompPlayerPosition.java
+ comparator.CompPlayerPosition
+comparator/CompTeamOPPG.java
+ comparator.CompTeamOPPG
+comparator/CompConfTeamRanking.java
+ comparator.CompConfTeamRanking
+recruiting/RecruitingActivity.java
+ recruiting.RecruitingActivity
+ recruiting.RecruitingActivity$1
+ recruiting.RecruitingActivity$10
+ recruiting.RecruitingActivity$11
+ recruiting.RecruitingActivity$2
+ recruiting.RecruitingActivity$3
+ recruiting.RecruitingActivity$4
+ recruiting.RecruitingActivity$5
+ recruiting.RecruitingActivity$5$1
+ recruiting.RecruitingActivity$6
+ recruiting.RecruitingActivity$7
+ recruiting.RecruitingActivity$8
+ recruiting.RecruitingActivity$9
+ recruiting.RecruitingActivity$ExpandableListAdapterRecruiting
+ recruiting.RecruitingActivity$ExpandableListAdapterRecruiting$1
+ui/TeamHistoryList.java
+ ui.TeamHistoryList
+comparator/CompCoachCareerPrestige.java
+ comparator.CompCoachCareerPrestige
+comparator/CompTeamPPG.java
+ comparator.CompTeamPPG
+positions/PlayerWR.java
+ positions.PlayerWR
+comparator/CompPlayerTackles.java
+ comparator.CompPlayerTackles
+comparator/CompCoachCOTY.java
+ comparator.CompCoachCOTY
+ui/DepthChart.java
+ ui.DepthChart
+ ui.DepthChart$1
+comparator/CompTeamCC.java
+ comparator.CompTeamCC
+comparator/CompKickRetYards.java
+ comparator.CompKickRetYards
+comparator/CompCoachAllAmericans.java
+ comparator.CompCoachAllAmericans
+comparator/CompTeamNC.java
+ comparator.CompTeamNC
+comparator/CompTeamYPG.java
+ comparator.CompTeamYPG
+comparator/CompTeamSoS.java
+ comparator.CompTeamSoS
+simulation/Team.java
+ simulation.Team
+comparator/CompPlayerSacks.java
+ comparator.CompPlayerSacks
+comparator/CompPlayerOVR.java
+ comparator.CompPlayerOVR
+comparator/CompPlayerFGpct.java
+ comparator.CompPlayerFGpct
+comparator/CompCoachScore.java
+ comparator.CompCoachScore
+comparator/CompPlayerRecTDs.java
+ comparator.CompPlayerRecTDs
+comparator/CompPlayerPassTDs.java
+ comparator.CompPlayerPassTDs
+ui/MainRankings.java
+ ui.MainRankings
+ ui.MainRankings$1
+ui/HallofFameList.java
+ ui.HallofFameList
+ ui.HallofFameList$1
+comparator/CompTeamDivWins.java
+ comparator.CompTeamDivWins
+comparator/CompPlayerReturners.java
+ comparator.CompPlayerReturners
+ui/TeamRoster.java
+ ui.TeamRoster
+ ui.TeamRoster$1
+comparator/CompCoachCC.java
+ comparator.CompCoachCC
+antdroid/cfbcoach/MainActivity.java
+ antdroid.cfbcoach.MainActivity
+ antdroid.cfbcoach.MainActivity$1
+ antdroid.cfbcoach.MainActivity$10
+ antdroid.cfbcoach.MainActivity$100
+ antdroid.cfbcoach.MainActivity$101
+ antdroid.cfbcoach.MainActivity$102
+ antdroid.cfbcoach.MainActivity$103
+ antdroid.cfbcoach.MainActivity$104
+ antdroid.cfbcoach.MainActivity$105
+ antdroid.cfbcoach.MainActivity$106
+ antdroid.cfbcoach.MainActivity$107
+ antdroid.cfbcoach.MainActivity$108
+ antdroid.cfbcoach.MainActivity$109
+ antdroid.cfbcoach.MainActivity$11
+ antdroid.cfbcoach.MainActivity$110
+ antdroid.cfbcoach.MainActivity$111
+ antdroid.cfbcoach.MainActivity$112
+ antdroid.cfbcoach.MainActivity$113
+ antdroid.cfbcoach.MainActivity$114
+ antdroid.cfbcoach.MainActivity$115
+ antdroid.cfbcoach.MainActivity$116
+ antdroid.cfbcoach.MainActivity$117
+ antdroid.cfbcoach.MainActivity$117$1
+ antdroid.cfbcoach.MainActivity$118
+ antdroid.cfbcoach.MainActivity$119
+ antdroid.cfbcoach.MainActivity$12
+ antdroid.cfbcoach.MainActivity$120
+ antdroid.cfbcoach.MainActivity$121
+ antdroid.cfbcoach.MainActivity$122
+ antdroid.cfbcoach.MainActivity$123
+ antdroid.cfbcoach.MainActivity$124
+ antdroid.cfbcoach.MainActivity$125
+ antdroid.cfbcoach.MainActivity$126
+ antdroid.cfbcoach.MainActivity$127
+ antdroid.cfbcoach.MainActivity$128
+ antdroid.cfbcoach.MainActivity$129
+ antdroid.cfbcoach.MainActivity$13
+ antdroid.cfbcoach.MainActivity$130
+ antdroid.cfbcoach.MainActivity$131
+ antdroid.cfbcoach.MainActivity$132
+ antdroid.cfbcoach.MainActivity$133
+ antdroid.cfbcoach.MainActivity$134
+ antdroid.cfbcoach.MainActivity$135
+ antdroid.cfbcoach.MainActivity$136
+ antdroid.cfbcoach.MainActivity$137
+ antdroid.cfbcoach.MainActivity$138
+ antdroid.cfbcoach.MainActivity$139
+ antdroid.cfbcoach.MainActivity$14
+ antdroid.cfbcoach.MainActivity$140
+ antdroid.cfbcoach.MainActivity$141
+ antdroid.cfbcoach.MainActivity$142
+ antdroid.cfbcoach.MainActivity$143
+ antdroid.cfbcoach.MainActivity$15
+ antdroid.cfbcoach.MainActivity$16
+ antdroid.cfbcoach.MainActivity$17
+ antdroid.cfbcoach.MainActivity$18
+ antdroid.cfbcoach.MainActivity$19
+ antdroid.cfbcoach.MainActivity$2
+ antdroid.cfbcoach.MainActivity$20
+ antdroid.cfbcoach.MainActivity$21
+ antdroid.cfbcoach.MainActivity$22
+ antdroid.cfbcoach.MainActivity$23
+ antdroid.cfbcoach.MainActivity$24
+ antdroid.cfbcoach.MainActivity$25
+ antdroid.cfbcoach.MainActivity$26
+ antdroid.cfbcoach.MainActivity$27
+ antdroid.cfbcoach.MainActivity$28
+ antdroid.cfbcoach.MainActivity$29
+ antdroid.cfbcoach.MainActivity$3
+ antdroid.cfbcoach.MainActivity$30
+ antdroid.cfbcoach.MainActivity$31
+ antdroid.cfbcoach.MainActivity$32
+ antdroid.cfbcoach.MainActivity$33
+ antdroid.cfbcoach.MainActivity$34
+ antdroid.cfbcoach.MainActivity$35
+ antdroid.cfbcoach.MainActivity$36
+ antdroid.cfbcoach.MainActivity$37
+ antdroid.cfbcoach.MainActivity$38
+ antdroid.cfbcoach.MainActivity$39
+ antdroid.cfbcoach.MainActivity$4
+ antdroid.cfbcoach.MainActivity$40
+ antdroid.cfbcoach.MainActivity$41
+ antdroid.cfbcoach.MainActivity$42
+ antdroid.cfbcoach.MainActivity$42$1
+ antdroid.cfbcoach.MainActivity$42$2
+ antdroid.cfbcoach.MainActivity$43
+ antdroid.cfbcoach.MainActivity$43$1
+ antdroid.cfbcoach.MainActivity$43$2
+ antdroid.cfbcoach.MainActivity$44
+ antdroid.cfbcoach.MainActivity$45
+ antdroid.cfbcoach.MainActivity$45$1
+ antdroid.cfbcoach.MainActivity$45$2
+ antdroid.cfbcoach.MainActivity$46
+ antdroid.cfbcoach.MainActivity$47
+ antdroid.cfbcoach.MainActivity$48
+ antdroid.cfbcoach.MainActivity$49
+ antdroid.cfbcoach.MainActivity$5
+ antdroid.cfbcoach.MainActivity$50
+ antdroid.cfbcoach.MainActivity$51
+ antdroid.cfbcoach.MainActivity$52
+ antdroid.cfbcoach.MainActivity$53
+ antdroid.cfbcoach.MainActivity$54
+ antdroid.cfbcoach.MainActivity$55
+ antdroid.cfbcoach.MainActivity$56
+ antdroid.cfbcoach.MainActivity$57
+ antdroid.cfbcoach.MainActivity$58
+ antdroid.cfbcoach.MainActivity$59
+ antdroid.cfbcoach.MainActivity$6
+ antdroid.cfbcoach.MainActivity$60
+ antdroid.cfbcoach.MainActivity$61
+ antdroid.cfbcoach.MainActivity$62
+ antdroid.cfbcoach.MainActivity$63
+ antdroid.cfbcoach.MainActivity$64
+ antdroid.cfbcoach.MainActivity$65
+ antdroid.cfbcoach.MainActivity$66
+ antdroid.cfbcoach.MainActivity$67
+ antdroid.cfbcoach.MainActivity$68
+ antdroid.cfbcoach.MainActivity$69
+ antdroid.cfbcoach.MainActivity$7
+ antdroid.cfbcoach.MainActivity$70
+ antdroid.cfbcoach.MainActivity$71
+ antdroid.cfbcoach.MainActivity$72
+ antdroid.cfbcoach.MainActivity$73
+ antdroid.cfbcoach.MainActivity$74
+ antdroid.cfbcoach.MainActivity$75
+ antdroid.cfbcoach.MainActivity$76
+ antdroid.cfbcoach.MainActivity$77
+ antdroid.cfbcoach.MainActivity$78
+ antdroid.cfbcoach.MainActivity$79
+ antdroid.cfbcoach.MainActivity$8
+ antdroid.cfbcoach.MainActivity$80
+ antdroid.cfbcoach.MainActivity$80$1
+ antdroid.cfbcoach.MainActivity$80$2
+ antdroid.cfbcoach.MainActivity$81
+ antdroid.cfbcoach.MainActivity$82
+ antdroid.cfbcoach.MainActivity$83
+ antdroid.cfbcoach.MainActivity$84
+ antdroid.cfbcoach.MainActivity$85
+ antdroid.cfbcoach.MainActivity$86
+ antdroid.cfbcoach.MainActivity$87
+ antdroid.cfbcoach.MainActivity$88
+ antdroid.cfbcoach.MainActivity$89
+ antdroid.cfbcoach.MainActivity$9
+ antdroid.cfbcoach.MainActivity$90
+ antdroid.cfbcoach.MainActivity$91
+ antdroid.cfbcoach.MainActivity$92
+ antdroid.cfbcoach.MainActivity$93
+ antdroid.cfbcoach.MainActivity$94
+ antdroid.cfbcoach.MainActivity$95
+ antdroid.cfbcoach.MainActivity$96
+ antdroid.cfbcoach.MainActivity$97
+ antdroid.cfbcoach.MainActivity$98
+ antdroid.cfbcoach.MainActivity$99
+comparator/CompTeamRYPG.java
+ comparator.CompTeamRYPG
+simulation/TeamStreak.java
+ simulation.TeamStreak
+simulation/PlaybookOffense.java
+ simulation.PlaybookOffense
+ui/SeasonAwardsList.java
+ ui.SeasonAwardsList
+positions/PlayerDefense.java
+ positions.PlayerDefense
+comparator/CompPlayerReceptions.java
+ comparator.CompPlayerReceptions
+comparator/CompCoachOvr.java
+ comparator.CompCoachOvr
+comparator/CompTeamRPI.java
+ comparator.CompTeamRPI
+ui/TeamHome.java
+ ui.TeamHome
+ ui.TeamHome$1
+ ui.TeamHome$2
+ ui.TeamHome$3
+ ui.TeamHome$4
+ ui.TeamHome$5
+ ui.TeamHome$6
+ ui.TeamHome$7
+ ui.TeamHome$8
+comparator/CompPuntRetTDs.java
+ comparator.CompPuntRetTDs
+comparator/CompPlayerFumblesRec.java
+ comparator.CompPlayerFumblesRec
+ui/IndividualStats.java
+ ui.IndividualStats
+ ui.IndividualStats$1
+comparator/CompTeamChemistry.java
+ comparator.CompTeamChemistry
+ui/TeamStatsList.java
+ ui.TeamStatsList
+comparator/CompPlayerPassRating.java
+ comparator.CompPlayerPassRating
+simulation/Division.java
+ simulation.Division
+comparator/CompCoachDef.java
+ comparator.CompCoachDef
+comparator/CompTeamOffTalent.java
+ comparator.CompTeamOffTalent
+positions/PlayerCB.java
+ positions.PlayerCB
+comparator/CompGamePlayerPicker.java
+ comparator.CompGamePlayerPicker
+positions/Player.java
+ positions.Player
+comparator/CompTeamORYPG.java
+ comparator.CompTeamORYPG
+comparator/CompTeamBowls.java
+ comparator.CompTeamBowls
+positions/PlayerReturner.java
+ positions.PlayerReturner
+antdroid/cfbcoach/BuildConfig.java
+ antdroid.cfbcoach.BuildConfig
+positions/PlayerOL.java
+ positions.PlayerOL
+comparator/CompTeamTODiff.java
+ comparator.CompTeamTODiff
+positions/PlayerS.java
+ positions.PlayerS
+recruiting/CompRecruitScoutGrade.java
+ recruiting.CompRecruitScoutGrade
+comparator/CompTeamProjPoll.java
+ comparator.CompTeamProjPoll
+comparator/CompPlayerInterceptions.java
+ comparator.CompPlayerInterceptions
+ui/PlayerProfile.java
+ ui.PlayerProfile
+comparator/CompTeamHoFCount.java
+ comparator.CompTeamHoFCount
+comparator/CompCoachNC.java
+ comparator.CompCoachNC
+positions/PlayerQB.java
+ positions.PlayerQB
+comparator/CompCoachBowlWins.java
+ comparator.CompCoachBowlWins

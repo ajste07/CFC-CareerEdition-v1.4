@@ -1,0 +1,19 @@
+<lint-module
+    format="1"
+    dir="D:\Games\fccd\android\CFC-CareerEdition-v1.4-master"
+    name=":"
+    type="APP"
+    maven=":CFC-CareerEdition-v1.4-master:"
+    gradle="7.0.4"
+    buildFolder="build"
+    bootClassPath="C:\Users\Adrian\AppData\Local\Android\Sdk\platforms\android-30\android.jar;C:\Users\Adrian\AppData\Local\Android\Sdk\build-tools\30.0.2\core-lambda-stubs.jar"
+    javaSourceLevel="1.8"
+    compileTarget="android-30"
+    neverShrinking="true">
+  <lintOptions
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true"/>
+  <variant name="release"/>
+</lint-module>
