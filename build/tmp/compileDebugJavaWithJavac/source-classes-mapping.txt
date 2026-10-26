@@ -1,8 +1,7 @@
-ui/PlayerRankingsList.java
- ui.PlayerRankingsList
- ui.PlayerRankingsList$1
-comparator/CompTeamRecruitClass.java
- comparator.CompTeamRecruitClass
+comparator/CompCoachCareer.java
+ comparator.CompCoachCareer
+comparator/CompPlayer.java
+ comparator.CompPlayer
 antdroid/cfbcoach/Home.java
  antdroid.cfbcoach.Home
  antdroid.cfbcoach.Home$1
@@ -37,149 +36,98 @@ antdroid/cfbcoach/Home.java
  antdroid.cfbcoach.Home$9$1
 ui/NewsStories.java
  ui.NewsStories
-simulation/League.java
- simulation.League
-comparator/CompPlayerPassYards.java
- comparator.CompPlayerPassYards
+simulation/LeagueRecords.java
+ simulation.LeagueRecords
+ simulation.LeagueRecords$Record
+recruiting/CompRecruitScoutGrade.java
+ recruiting.CompRecruitScoutGrade
 simulation/TeamRecords.java
  simulation.TeamRecords
  simulation.TeamRecords$Record
-positions/PlayerK.java
- positions.PlayerK
+comparator/CompCoachBowlWins.java
+ comparator.CompCoachBowlWins
 comparator/CompPuntRetYards.java
  comparator.CompPuntRetYards
 comparator/CompKickRetTD.java
  comparator.CompKickRetTD
-comparator/CompTeamDisciplineScore.java
- comparator.CompTeamDisciplineScore
-positions/PlayerRB.java
- positions.PlayerRB
-comparator/CompTeamSoW.java
- comparator.CompTeamSoW
-comparator/CompPlayerPassPCT.java
- comparator.CompPlayerPassPCT
-staff/DC.java
- staff.DC
+positions/PlayerReturner.java
+ positions.PlayerReturner
+recruiting/CompRecruitTeamRosterOvr.java
+ recruiting.CompRecruitTeamRosterOvr
+comparator/CompCoachNC.java
+ comparator.CompCoachNC
+ui/PlayerProfile.java
+ ui.PlayerProfile
+comparator/CompGamePlayerPicker.java
+ comparator.CompGamePlayerPicker
 comparator/CompCoachWins.java
  comparator.CompCoachWins
 comparator/CompNFLTalent.java
  comparator.CompNFLTalent
-comparator/CompTeamPrestige.java
- comparator.CompTeamPrestige
-comparator/CompPlayerPassInts.java
- comparator.CompPlayerPassInts
-comparator/CompTeamBudget.java
- comparator.CompTeamBudget
-comparator/CompTeamWins.java
- comparator.CompTeamWins
+comparator/CompCoachDef.java
+ comparator.CompCoachDef
+comparator/CompCoachCareerPrestige.java
+ comparator.CompCoachCareerPrestige
+ui/TeamStatsList.java
+ ui.TeamStatsList
+comparator/CompPlayerPosition.java
+ comparator.CompPlayerPosition
 ui/LeagueRecordsList.java
  ui.LeagueRecordsList
-simulation/Game.java
- simulation.Game
-positions/PlayerOffense.java
- positions.PlayerOffense
+ui/PlayerProfileV2.java
+ ui.PlayerProfileV2
+ui/DepthChart.java
+ ui.DepthChart
+ ui.DepthChart$1
 antdroid/cfbcoach/TutorialActivity.java
  antdroid.cfbcoach.TutorialActivity
  antdroid.cfbcoach.TutorialActivity$1
-simulation/PlaybookDefense.java
- simulation.PlaybookDefense
-comparator/CompTeamDiscipline.java
- comparator.CompTeamDiscipline
-comparator/CompTeamConfWins.java
- comparator.CompTeamConfWins
+comparator/CompPuntRetTDs.java
+ comparator.CompPuntRetTDs
+comparator/CompCoachOvr.java
+ comparator.CompCoachOvr
+ui/SeasonAwardsList.java
+ ui.SeasonAwardsList
 positions/PlayerST.java
  positions.PlayerST
-comparator/CompTeamPYPG.java
- comparator.CompTeamPYPG
+comparator/CompCoachScore.java
+ comparator.CompCoachScore
 comparator/CompPlayerPosDepth.java
  comparator.CompPlayerPosDepth
 comparator/CompRecruit.java
  comparator.CompRecruit
-comparator/CompPlayerRushTDs.java
- comparator.CompPlayerRushTDs
+comparator/CompPlayerReturners.java
+ comparator.CompPlayerReturners
 comparator/CompCoachWinPCT.java
  comparator.CompCoachWinPCT
-staff/OC.java
- staff.OC
+comparator/CompCoachCC.java
+ comparator.CompCoachCC
 ui/MockDraft.java
  ui.MockDraft
 recruiting/CompRecruitCost.java
  recruiting.CompRecruitCost
 comparator/CompPlayerHeisman.java
  comparator.CompPlayerHeisman
-comparator/CompTeamFacilities.java
- comparator.CompTeamFacilities
-positions/PlayerLB.java
- positions.PlayerLB
-ui/GameScheduleList.java
- ui.GameScheduleList
- ui.GameScheduleList$1
- ui.GameScheduleList$2
+comparator/CompPlayerOVR.java
+ comparator.CompPlayerOVR
+simulation/TeamStreak.java
+ simulation.TeamStreak
+comparator/CompKickRetYards.java
+ comparator.CompKickRetYards
 ui/LeagueHistoryList.java
  ui.LeagueHistoryList
-positions/PlayerDL.java
- positions.PlayerDL
-comparator/CompTeamOPYPG.java
- comparator.CompTeamOPYPG
-staff/HeadCoach.java
- staff.HeadCoach
+comparator/CompCoachAllAmericans.java
+ comparator.CompCoachAllAmericans
+antdroid/cfbcoach/BuildConfig.java
+ antdroid.cfbcoach.BuildConfig
+comparator/CompCoachCOTY.java
+ comparator.CompCoachCOTY
 ui/SaveFilesList.java
  ui.SaveFilesList
 comparator/CompCoachConfCOTY.java
  comparator.CompCoachConfCOTY
-simulation/Conference.java
- simulation.Conference
-comparator/CompPlayerRushYards.java
- comparator.CompPlayerRushYards
-comparator/CompTeamPoll.java
- comparator.CompTeamPoll
-comparator/CompPlayerSTSpeed.java
- comparator.CompPlayerSTSpeed
-comparator/CompCoachAllConference.java
- comparator.CompCoachAllConference
-ui/TeamRankingsList.java
- ui.TeamRankingsList
-comparator/CompCoachOff.java
- comparator.CompCoachOff
-comparator/CompTeamOYPG.java
- comparator.CompTeamOYPG
-ui/RedshirtAdapter.java
- ui.RedshirtAdapter
- ui.RedshirtAdapter$1
-comparator/CompConfPrestige.java
- comparator.CompConfPrestige
-comparator/CompCoachCareer.java
- comparator.CompCoachCareer
-comparator/CompPlayer.java
- comparator.CompPlayer
-simulation/LeagueRecords.java
- simulation.LeagueRecords
- simulation.LeagueRecords$Record
-comparator/CompTeamDefTalent.java
- comparator.CompTeamDefTalent
-recruiting/CompRecruitTeamRosterOvr.java
- recruiting.CompRecruitTeamRosterOvr
-simulation/Injury.java
- simulation.Injury
-comparator/CompPlayerRecYards.java
- comparator.CompPlayerRecYards
-ui/PlayerProfileV2.java
- ui.PlayerProfileV2
-ui/CoachDatabase.java
- ui.CoachDatabase
- ui.CoachDatabase$1
-comparator/CompPlayerFGMade.java
- comparator.CompPlayerFGMade
-positions/PlayerTE.java
- positions.PlayerTE
-staff/Staff.java
- staff.Staff
-comparator/CompPlayerPosition.java
- comparator.CompPlayerPosition
-comparator/CompTeamOPPG.java
- comparator.CompTeamOPPG
-comparator/CompConfTeamRanking.java
- comparator.CompConfTeamRanking
+ui/TeamHistoryList.java
+ ui.TeamHistoryList
 recruiting/RecruitingActivity.java
  recruiting.RecruitingActivity
  recruiting.RecruitingActivity$1
@@ -196,43 +144,91 @@ recruiting/RecruitingActivity.java
  recruiting.RecruitingActivity$9
  recruiting.RecruitingActivity$ExpandableListAdapterRecruiting
  recruiting.RecruitingActivity$ExpandableListAdapterRecruiting$1
-ui/TeamHistoryList.java
- ui.TeamHistoryList
-comparator/CompCoachCareerPrestige.java
- comparator.CompCoachCareerPrestige
+ui/RedshirtAdapter.java
+ ui.RedshirtAdapter
+ ui.RedshirtAdapter$1
+comparator/CompPlayerSTSpeed.java
+ comparator.CompPlayerSTSpeed
+comparator/CompCoachAllConference.java
+ comparator.CompCoachAllConference
+ui/TeamRankingsList.java
+ ui.TeamRankingsList
+comparator/CompCoachOff.java
+ comparator.CompCoachOff
+ui/CoachDatabase.java
+ ui.CoachDatabase
+ ui.CoachDatabase$1
+comparator/CompPlayerFGMade.java
+ comparator.CompPlayerFGMade
+positions/PlayerTE.java
+ positions.PlayerTE
+ui/PlayerRankingsList.java
+ ui.PlayerRankingsList
+ ui.PlayerRankingsList$1
+staff/Staff.java
+ staff.Staff
+comparator/CompTeamRecruitClass.java
+ comparator.CompTeamRecruitClass
+simulation/League.java
+ simulation.League
+comparator/CompPlayerPassYards.java
+ comparator.CompPlayerPassYards
+comparator/CompTeamOPPG.java
+ comparator.CompTeamOPPG
+comparator/CompConfTeamRanking.java
+ comparator.CompConfTeamRanking
+positions/PlayerK.java
+ positions.PlayerK
 comparator/CompTeamPPG.java
  comparator.CompTeamPPG
+comparator/CompTeamDisciplineScore.java
+ comparator.CompTeamDisciplineScore
+positions/PlayerRB.java
+ positions.PlayerRB
+comparator/CompTeamSoW.java
+ comparator.CompTeamSoW
+comparator/CompPlayerPassPCT.java
+ comparator.CompPlayerPassPCT
+staff/DC.java
+ staff.DC
 positions/PlayerWR.java
  positions.PlayerWR
 comparator/CompPlayerTackles.java
  comparator.CompPlayerTackles
-comparator/CompCoachCOTY.java
- comparator.CompCoachCOTY
-ui/DepthChart.java
- ui.DepthChart
- ui.DepthChart$1
+comparator/CompTeamPrestige.java
+ comparator.CompTeamPrestige
+comparator/CompPlayerPassInts.java
+ comparator.CompPlayerPassInts
 comparator/CompTeamCC.java
  comparator.CompTeamCC
-comparator/CompKickRetYards.java
- comparator.CompKickRetYards
-comparator/CompCoachAllAmericans.java
- comparator.CompCoachAllAmericans
+comparator/CompTeamBudget.java
+ comparator.CompTeamBudget
+comparator/CompTeamWins.java
+ comparator.CompTeamWins
+simulation/Game.java
+ simulation.Game
+positions/PlayerOffense.java
+ positions.PlayerOffense
+simulation/PlaybookDefense.java
+ simulation.PlaybookDefense
 comparator/CompTeamNC.java
  comparator.CompTeamNC
 comparator/CompTeamYPG.java
  comparator.CompTeamYPG
 comparator/CompTeamSoS.java
  comparator.CompTeamSoS
+comparator/CompTeamDiscipline.java
+ comparator.CompTeamDiscipline
+comparator/CompTeamConfWins.java
+ comparator.CompTeamConfWins
 simulation/Team.java
  simulation.Team
 comparator/CompPlayerSacks.java
  comparator.CompPlayerSacks
-comparator/CompPlayerOVR.java
- comparator.CompPlayerOVR
 comparator/CompPlayerFGpct.java
  comparator.CompPlayerFGpct
-comparator/CompCoachScore.java
- comparator.CompCoachScore
+comparator/CompTeamPYPG.java
+ comparator.CompTeamPYPG
 comparator/CompPlayerRecTDs.java
  comparator.CompPlayerRecTDs
 comparator/CompPlayerPassTDs.java
@@ -245,13 +241,11 @@ ui/HallofFameList.java
  ui.HallofFameList$1
 comparator/CompTeamDivWins.java
  comparator.CompTeamDivWins
-comparator/CompPlayerReturners.java
- comparator.CompPlayerReturners
+comparator/CompPlayerRushTDs.java
+ comparator.CompPlayerRushTDs
 ui/TeamRoster.java
  ui.TeamRoster
  ui.TeamRoster$1
-comparator/CompCoachCC.java
- comparator.CompCoachCC
 antdroid/cfbcoach/MainActivity.java
  antdroid.cfbcoach.MainActivity
  antdroid.cfbcoach.MainActivity$1
@@ -406,22 +400,28 @@ antdroid/cfbcoach/MainActivity.java
  antdroid.cfbcoach.MainActivity$97
  antdroid.cfbcoach.MainActivity$98
  antdroid.cfbcoach.MainActivity$99
+staff/OC.java
+ staff.OC
 comparator/CompTeamRYPG.java
  comparator.CompTeamRYPG
-simulation/TeamStreak.java
- simulation.TeamStreak
 simulation/PlaybookOffense.java
  simulation.PlaybookOffense
-ui/SeasonAwardsList.java
- ui.SeasonAwardsList
+comparator/CompTeamFacilities.java
+ comparator.CompTeamFacilities
+positions/PlayerLB.java
+ positions.PlayerLB
 positions/PlayerDefense.java
  positions.PlayerDefense
 comparator/CompPlayerReceptions.java
  comparator.CompPlayerReceptions
-comparator/CompCoachOvr.java
- comparator.CompCoachOvr
+ui/GameScheduleList.java
+ ui.GameScheduleList
+ ui.GameScheduleList$1
+ ui.GameScheduleList$2
 comparator/CompTeamRPI.java
  comparator.CompTeamRPI
+positions/PlayerDL.java
+ positions.PlayerDL
 ui/TeamHome.java
  ui.TeamHome
  ui.TeamHome$1
@@ -432,58 +432,58 @@ ui/TeamHome.java
  ui.TeamHome$6
  ui.TeamHome$7
  ui.TeamHome$8
-comparator/CompPuntRetTDs.java
- comparator.CompPuntRetTDs
+comparator/CompTeamOPYPG.java
+ comparator.CompTeamOPYPG
 comparator/CompPlayerFumblesRec.java
  comparator.CompPlayerFumblesRec
+staff/HeadCoach.java
+ staff.HeadCoach
 ui/IndividualStats.java
  ui.IndividualStats
  ui.IndividualStats$1
 comparator/CompTeamChemistry.java
  comparator.CompTeamChemistry
-ui/TeamStatsList.java
- ui.TeamStatsList
 comparator/CompPlayerPassRating.java
  comparator.CompPlayerPassRating
 simulation/Division.java
  simulation.Division
-comparator/CompCoachDef.java
- comparator.CompCoachDef
+simulation/Conference.java
+ simulation.Conference
+comparator/CompPlayerRushYards.java
+ comparator.CompPlayerRushYards
 comparator/CompTeamOffTalent.java
  comparator.CompTeamOffTalent
+comparator/CompTeamPoll.java
+ comparator.CompTeamPoll
 positions/PlayerCB.java
  positions.PlayerCB
-comparator/CompGamePlayerPicker.java
- comparator.CompGamePlayerPicker
 positions/Player.java
  positions.Player
 comparator/CompTeamORYPG.java
  comparator.CompTeamORYPG
 comparator/CompTeamBowls.java
  comparator.CompTeamBowls
-positions/PlayerReturner.java
- positions.PlayerReturner
-antdroid/cfbcoach/BuildConfig.java
- antdroid.cfbcoach.BuildConfig
 positions/PlayerOL.java
  positions.PlayerOL
 comparator/CompTeamTODiff.java
  comparator.CompTeamTODiff
 positions/PlayerS.java
  positions.PlayerS
-recruiting/CompRecruitScoutGrade.java
- recruiting.CompRecruitScoutGrade
 comparator/CompTeamProjPoll.java
  comparator.CompTeamProjPoll
+comparator/CompTeamOYPG.java
+ comparator.CompTeamOYPG
 comparator/CompPlayerInterceptions.java
  comparator.CompPlayerInterceptions
-ui/PlayerProfile.java
- ui.PlayerProfile
+comparator/CompConfPrestige.java
+ comparator.CompConfPrestige
+comparator/CompTeamDefTalent.java
+ comparator.CompTeamDefTalent
 comparator/CompTeamHoFCount.java
  comparator.CompTeamHoFCount
-comparator/CompCoachNC.java
- comparator.CompCoachNC
+simulation/Injury.java
+ simulation.Injury
+comparator/CompPlayerRecYards.java
+ comparator.CompPlayerRecYards
 positions/PlayerQB.java
  positions.PlayerQB
-comparator/CompCoachBowlWins.java
- comparator.CompCoachBowlWins

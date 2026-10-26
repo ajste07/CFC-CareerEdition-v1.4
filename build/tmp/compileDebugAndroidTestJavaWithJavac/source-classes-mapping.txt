@@ -1,0 +1,2 @@
+antdroid/cfbcoach/test/BuildConfig.java
+ antdroid.cfbcoach.test.BuildConfig
