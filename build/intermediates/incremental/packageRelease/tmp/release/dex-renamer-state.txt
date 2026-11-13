@@ -1,4 +1,4 @@
-#Mon Oct 26 21:04:41 AEST 2026
+#Fri Nov 13 17:54:07 AEST 2026
 base.0=D\:\\Games\\fccd\\android\\CFC-CareerEdition-v1.4-master\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
 renamed.0=classes.dex
 path.0=classes.dex

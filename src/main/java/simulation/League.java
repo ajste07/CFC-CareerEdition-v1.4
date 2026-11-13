@@ -208,7 +208,7 @@ public class League {
     private final DecimalFormatSymbols symbols = new DecimalFormatSymbols(Locale.US);
     private final DecimalFormat df2 = new DecimalFormat("#.##", symbols);
     private final DecimalFormat df3 = new DecimalFormat("#.####", symbols);
-    private final int seasonStart = 2027;
+    private final int seasonStart = 2019;
     int countTeam = 130; //default roster automatically calculates this number when using custom data or loaded saves
     private final int seasonWeeks = 30;
     public int regSeasonWeeks = 13; //original = 13 will change dynamically based on team/conference structure
@@ -240,11 +240,11 @@ public class League {
 
     public final String[] states = {"AS", "AZ", "CA", "HI", "ID", "MT", "NV", "OR", "UT", "WA", "CO", "KS", "MO", "NE", "NM", "ND", "OK", "SD", "TX", "WY", "IL", "IN", "IA", "KY", "MD", "MI", "MN", "OH", "TN", "WI", "CT", "DE", "ME", "MA", "NH", "NJ", "NY", "PA", "RI", "VT", "AL", "AK", "FL", "GA", "LA", "MS", "NC", "SC", "VA", "WV"};
 
-    public final String bowlNamesText = "Rose Bowl, Orange Bowl, Sugar Bowl, Cotton Bowl, Peach Bowl, Fiesta Bowl, Alamo Bowl, Citrus Bowl, Hall of Fame Bowl, Holiday Bowl, Texas Bowl, Sunshine Bowl, Music City Bowl, Gator Bowl, Queen City Bowl, Liberty Bowl, Sun Bowl, Pinstripe Bowl, Las Vegas Bowl, Fenway Bowl, Independence Bowl, Military Bowl, Cactus Bowl, Mobile Bowl, Birmingham Bowl, Fort Worth Bowl, Hawai'i Bowl, Gasparilla Bowl, New Mexico Bowl, Boca Raton Bowl, New Orleans Bowl, Dallas Bowl, Potato Bowl, Frisco Bowl, Cure Bowl, Arizona Bowl, Camellia Bowl, Myrtle Beach Bowl, Bahamas Bowl, Detroit Bowl, Miami Beach Bowl, Poinsettia Bowl, Puerto Rico Bowl, San Francisco Bowl, Montgomery Bowl, Chili Bowl, Austin Bowl, Little Rock Bowl, LA Bowl, Aloha Bowl, International Bowl, Silicon Valley Bowl, Anaheim Bowl";
+    public final String bowlNamesText = "Rose Bowl, Orange Bowl, Sugar Bowl, Cotton Bowl, Fiesta Bowl, Peach Bowl, Alamo Bowl, Citrus Bowl, Hall of Fame Bowl, Holiday Bowl, Texas Bowl, Sunshine Bowl, Music City Bowl, Gator Bowl, Queen City Bowl, Liberty Bowl, Sun Bowl, Pinstripe Bowl, Las Vegas Bowl, Fenway Bowl, Independence Bowl, Military Bowl, Cactus Bowl, Mobile Bowl, Birmingham Bowl, Fort Worth Bowl, Hawai'i Bowl, Gasparilla Bowl, New Mexico Bowl, Boca Raton Bowl, New Orleans Bowl, Dallas Bowl, Potato Bowl, Frisco Bowl, Cure Bowl, Arizona Bowl, Camellia Bowl, Myrtle Beach Bowl, Bahamas Bowl, Detroit Bowl, Miami Beach Bowl, Poinsettia Bowl, Puerto Rico Bowl, San Francisco Bowl, Montgomery Bowl, Chili Bowl, Austin Bowl, Little Rock Bowl, LA Bowl, Aloha Bowl, International Bowl, Silicon Valley Bowl, Anaheim Bowl";
 
-    public String[] teamsFCS = {"Alabama State", "Albany", "Alcorn State", "Austin Peay", "Chattanooga", "Eastern Washington", "Dayton", "Central Arkansas", "Drake", "Eastern Kentucky", "Brown", "Harvard", "Yale", "Princeton", "Grambling State", "Weber State", "Idaho State", "Elon", "Lehigh", "Lafayette", "Northern Arizona", "UT Martin", "Tennessee Tech", "Tennessee State", "Gardner-Webb", "Montana", "Montana State", "North Alabama", "Mercer", "Wofford", "Furman", "Samford", "Northern Colorado", "UC Davis", "Cal Poly", "San Diego", "VMI"};
+    public String[] teamsFCS = {"Alabama State", "Alcorn State", "Austin Peay", "Chattanooga", "Central Connecticut", "Dayton", "Central Arkansas", "Drake", "Eastern Kentucky", "Brown", "Harvard", "Yale", "Princeton", "Grambling State", "Weber State", "Idaho State", "Western Illinois", "Lehigh", "Lafayette", "Northern Arizona", "UT Martin", "Tennessee Tech", "Tennessee State", "Gardner-Webb", "Montana", "Montana State", "North Alabama", "Mercer", "Wofford", "Furman", "Samford", "Northern Colorado", "UC Davis", "Cal Poly", "San Diego", "Southern Utah", "VMI"};
 
-    public String[] confNamesNew = {"American", "Patriot", "United", "Big 8", "Continental", "Skyline"};
+    public String[] confNamesNew = {"United", "Patriot", "Continental", "Skyline", "Metro", "Big 8"};
 
 
     /**
